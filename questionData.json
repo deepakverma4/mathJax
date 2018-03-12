@@ -1,0 +1,269 @@
+{
+    "questions": [
+        {
+            "options": [
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">1</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">2</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-size:16px\"><span style=\"font-family:georgia,serif\">3</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">4</span></span></p>\r\n",
+                    "image": null
+                }
+            ],
+            "answer": "Option4",
+            "id": 5647,
+            "question":
+                "<p><span style=\"font-size:18px\"><span style=\"font-family:georgia,serif\">If the highest degree of the equation <span class=\"math-tex\">\\(x^a+2x+1\\)</span> is 4 then value of a is </span></span></p>",
+            "question_image": null,
+            "solution_text":
+                "<p>Since highest degree = 4 so it is possible only when a=4</p>",
+            "solution_image": null,
+            "time_needed": 30,
+            "chapter_details": {
+                "id": 59,
+                "subject_details": {
+                    "id": 2,
+                    "name": "Math",
+                    "is_active": true
+                },
+                "name": "Polynomials",
+                "overview":
+                    "<h4>Click on walk, run or fly to get a quiz on Polynomials. The quiz has 5 questions. Walk, run and fly correspond to difficulty level 1, 2 and 3 respectively.</h4>",
+                "image": null,
+                "extra_subject_id": 0,
+                "uploaded_time": "2017-04-11T17:16:48",
+                "updated_time": null,
+                "is_active": true,
+                "subject": 2
+            },
+            "time_per_question": 60,
+            "marks_as_per_topic": 2.5,
+            "max_marks": 25
+        },
+        {
+            "options": [
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">1</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-size:16px\"><span style=\"font-family:georgia,serif\">3</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">5</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">4</span></span></p>\r\n",
+                    "image": null
+                }
+            ],
+            "answer": "Option4",
+            "id": 5633,
+            "question":
+                "<p><span style=\"font-size:18px\"><span style=\"font-family:georgia,serif\">What is the degree of the polynomial <span class=\"math-tex\">\\(x^4 +x+3\\)</span> ?&nbsp;</span></span></p>",
+            "question_image": null,
+            "solution_text":
+                "<p style=\"text-align:center\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">Highest degree=4</span></span></p>",
+            "solution_image": null,
+            "time_needed": 30,
+            "chapter_details": {
+                "id": 59,
+                "subject_details": {
+                    "id": 2,
+                    "name": "Math",
+                    "is_active": true
+                },
+                "name": "Polynomials",
+                "overview":
+                    "<h4>Click on walk, run or fly to get a quiz on Polynomials. The quiz has 5 questions. Walk, run and fly correspond to difficulty level 1, 2 and 3 respectively.</h4>",
+                "image": null,
+                "extra_subject_id": 0,
+                "uploaded_time": "2017-04-11T17:16:48",
+                "updated_time": null,
+                "is_active": true,
+                "subject": 2
+            },
+            "time_per_question": 60,
+            "marks_as_per_topic": 2.5,
+            "max_marks": 25
+        },
+        {
+            "options": [
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">8</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">-9</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">0</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">-11</span></span></p>\r\n",
+                    "image": null
+                }
+            ],
+            "answer": "Option3",
+            "id": 5667,
+            "question":
+                "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:18px\">Value of polynomial <span class=\"math-tex\">\\(x^3+1\\)</span> at x= -1 is</span></span></p>",
+            "question_image": null,
+            "solution_text":
+                "<p style=\"text-align:center\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\(x^3+1 \\ at\\ x=1 \\ will\\ be \\\\ (-1)^3+1= -1+1=0\\)</span></span></span></p>",
+            "solution_image": null,
+            "time_needed": 30,
+            "chapter_details": {
+                "id": 59,
+                "subject_details": {
+                    "id": 2,
+                    "name": "Math",
+                    "is_active": true
+                },
+                "name": "Polynomials",
+                "overview":
+                    "<h4>Click on walk, run or fly to get a quiz on Polynomials. The quiz has 5 questions. Walk, run and fly correspond to difficulty level 1, 2 and 3 respectively.</h4>",
+                "image": null,
+                "extra_subject_id": 0,
+                "uploaded_time": "2017-04-11T17:16:48",
+                "updated_time": null,
+                "is_active": true,
+                "subject": 2
+            },
+            "time_per_question": 60,
+            "marks_as_per_topic": 2.5,
+            "max_marks": 25
+        },
+        {
+            "options": [
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\((x+y)(x^2+y^2-xy)\\)</span></span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\((x+y)(x^2+y^2+xy)\\)</span></span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\((x+y)(x^2+y^2-y)\\)</span></span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\((x+y)(x^2+y^2-2xy)\\)</span></span></span></p>\r\n",
+                    "image": null
+                }
+            ],
+            "answer": "Option1",
+            "id": 5659,
+            "question":
+                "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:18px\">The correct expression for <span class=\"math-tex\">\\(x^3+y^3\\)</span> is</span></span></p>",
+            "question_image": null,
+            "solution_text":
+                "<p style=\"text-align:center\"><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\"><span class=\"math-tex\">\\(x^3+y^3=(x+y)(x^2+y^2-xy)\\)</span></span></span></p>",
+            "solution_image": null,
+            "time_needed": 30,
+            "chapter_details": {
+                "id": 59,
+                "subject_details": {
+                    "id": 2,
+                    "name": "Math",
+                    "is_active": true
+                },
+                "name": "Polynomials",
+                "overview":
+                    "<h4>Click on walk, run or fly to get a quiz on Polynomials. The quiz has 5 questions. Walk, run and fly correspond to difficulty level 1, 2 and 3 respectively.</h4>",
+                "image": null,
+                "extra_subject_id": 0,
+                "uploaded_time": "2017-04-11T17:16:48",
+                "updated_time": null,
+                "is_active": true,
+                "subject": 2
+            },
+            "time_per_question": 60,
+            "marks_as_per_topic": 2.5,
+            "max_marks": 25
+        },
+        {
+            "options": [
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">1</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">2</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-size:16px\"><span style=\"font-family:georgia,serif\">3</span></span></p>\r\n",
+                    "image": null
+                },
+                {
+                    "value":
+                        "<p><span style=\"font-family:georgia,serif\"><span style=\"font-size:16px\">4</span></span></p>\r\n",
+                    "image": null
+                }
+            ],
+            "answer": "Option4",
+            "id": 5647,
+            "question":
+                "<p><span style=\"font-size:18px\"><span style=\"font-family:georgia,serif\">If the highest degree of the equation <span class=\"math-tex\">\\(x^a+2x+1\\)</span> is 4 then value of a is </span></span></p>",
+            "question_image": null,
+            "solution_text":
+                "<p>Since highest degree = 4 so it is possible only when a=4</p>",
+            "solution_image": null,
+            "time_needed": 30,
+            "chapter_details": {
+                "id": 59,
+                "subject_details": {
+                    "id": 2,
+                    "name": "Math",
+                    "is_active": true
+                },
+                "name": "Polynomials",
+                "overview":
+                    "<h4>Click on walk, run or fly to get a quiz on Polynomials. The quiz has 5 questions. Walk, run and fly correspond to difficulty level 1, 2 and 3 respectively.</h4>",
+                "image": null,
+                "extra_subject_id": 0,
+                "uploaded_time": "2017-04-11T17:16:48",
+                "updated_time": null,
+                "is_active": true,
+                "subject": 2
+            },
+            "time_per_question": 60,
+            "marks_as_per_topic": 2.5,
+            "max_marks": 25
+        }
+    ]
+}
