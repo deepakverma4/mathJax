@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, WebView } from 'react-native';
+import { Platform, Text, View, WebView } from 'react-native';
 import questionData from './questionData.json';
 import katexStyle from './katex/katex-style';
 import katexScript from './katex/katex-script';
 import { bool, func, object, string } from 'prop-types';
 
-const defaultStyle = StyleSheet.create({
+const defaultStyle = {
 	height: 40
-});
+};
 
 const defaultInlineStyle = `
     html, body {
